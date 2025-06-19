@@ -1,4 +1,4 @@
-# 🚀 Advanced Python Programming – Semester 2 Workshop
+# 🚀 Advanced Python Programming
 
 This repository contains programs and hands-on exercises from the **Advanced Python Workshop** conducted during my **second semester** at **NIET College**.  
 The workshop focused on **Object-Oriented Programming (OOP)** concepts and introduced powerful **Python libraries** for data analysis and scientific computing.
